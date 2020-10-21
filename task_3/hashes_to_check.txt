@@ -1,0 +1,5 @@
+file_01.bin md5 d2d362cdc6579390f1c0617d74a7913d
+file_02.bin md5 d2d362cdc6579390f1c0617d74a7913d
+file_03.bin md5 aa3f5bb8c988fa9b75a1cdb1dc4d93fc
+файл_04.txt sha256 d8c6598a1f94a07a1a049852c1c2e3145cc2d746471a570bec3a69d4eae24462
+notfound_file.py sha1 some_hash_here
